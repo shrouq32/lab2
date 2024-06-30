@@ -23,6 +23,8 @@ git tag
 git push origin --delete v1.7
 
 # 4. tell me how to list tags
+git tag 
+git tag -1 --sort=-vrefname
 
 
 

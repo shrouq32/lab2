@@ -6,7 +6,7 @@ we can remove it remotely by:
 git branch origin --delete test 
 git branch origin --delete dev
 
-
+s
 
 
 
